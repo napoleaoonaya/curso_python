@@ -1,3 +1,3 @@
 st = "napoleao"
 print st
-print st.capitalize
+print st.capitalize()
