@@ -1,4 +1,13 @@
 """
+    Ver todos comandos para string
+    dir(str)
+"""
+print("Todas funções para string")
+print(dir(str))
+
+print("\n")
+
+"""
     Strings se comportão como se uma lista
     Exemplo:
     nome = "Napoleão Kazu Onaya"
