@@ -8,6 +8,7 @@
     tuple ('Hambuger','Suco','Pudim')
     dict  {'nome':'Napoleão Kazu Onaya','idade':36}
     NoneType None
+    
 """
 a = True
 print(type(a))
