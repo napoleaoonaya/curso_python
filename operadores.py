@@ -8,6 +8,7 @@
     ** Potênciação
     % Módulo ou resto da divisão
     = Atribuição
+    
 """
 a = 2
 b = 4
