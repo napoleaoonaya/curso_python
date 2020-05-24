@@ -1,6 +1,7 @@
 """
     Ver todos comandos para string
     dir(str)
+    
 """
 print("Todas funções para string")
 print(dir(str))
